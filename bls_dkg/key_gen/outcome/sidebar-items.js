@@ -1,1 +1,1 @@
-initSidebarItems({"struct":[["Outcome","DKG result"]]});
+window.SIDEBAR_ITEMS = {"struct":[["Outcome","DKG result"]]};

@@ -1,1 +1,1 @@
-initSidebarItems({"enum":[["Message","Messages used for running BLS DKG."]]});
+window.SIDEBAR_ITEMS = {"enum":[["Message","Messages used for running BLS DKG."]]};

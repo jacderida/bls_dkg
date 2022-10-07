@@ -1,1 +1,1 @@
-initSidebarItems({"mod":[["key_gen",""]]});
+window.SIDEBAR_ITEMS = {"mod":[["key_gen",""]]};
